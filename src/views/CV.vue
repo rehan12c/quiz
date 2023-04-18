@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-4 bg-dark text-white text-center py-4">
                         <div class="header-left">
-                            <img src="src/img/img-1.jpg" alt="" class="img-thumbmail rounded-circle mb-2">
+                            <img src="https://disk.mediaindonesia.com/files/news/2022/11/03/wa14.jpg" alt="" class="img-thumbmail rounded-circle mb-2" style="height: 150px;">
                             <h1 class="display-5">Rehan Nugraha Tanjung</h1>
                             <h4 class="lead text-uppercase text-white-50 mb-4">Mahasiswa</h4>
                         </div>

@@ -17,7 +17,7 @@
     <div class="card">
       <div class="card-body">
         <h5 class="card-title text-center">Github</h5>
-        <img src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" alt="img" style="width: 200px; height: 200px;">
+        <center><img src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" alt="img" style="width: 200px; height: 200px;"></center>
         <center><p class="card-text">Kunjungi Github</p></center>
         <a href="https://github.com/rehan12c" class="btn btn-dark d-block">Go To Github</a>
       </div>
@@ -27,7 +27,7 @@
     <div class="card">
       <div class="card-body">
         <h5 class="card-title text-center">Gmail</h5>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="img" style="height: 200px; width: 200px;">
+        <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="img" style="height: 200px; width: 200px;"></center>
         <center><p class="card-text">Kunjungi Gmail</p></center>
         <a href="mailto:rehannugraha64@gmail.com" class="btn btn-dark d-block">Go To Gmail</a>
       </div>

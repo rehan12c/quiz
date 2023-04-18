@@ -1,58 +1,91 @@
 <template>
-    <div class="CV"> </div>
-    <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-    <div class="hero-container" data-aos="fade-in">
-      <h1>Sekilas</h1>
-      <p>Saya <span> Mahasiswa Aktif</span> di Universitas Islam Negri Sultan Syarif Khasim, jurusan <span>Teknik Informatika</span> </p>
+    <div class="cv">
     </div>
-  </section><!-- End Hero -->
-
-  <main id="main"> 
-
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Data Pribadi</h2>
-          <p>Data  Pribadi berikut merupakan data asli tanpa rekayasa </p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4" data-aos="fade-right">
-          </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Appmobs &amp; Web Developer.</h3>
-            <p class="fst-italic">
-              Dipersilahkan memhubungi jika berminat.
-            </p>
+    <div class="bg-light">
+        <div class="container p-5">
             <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Ulang Tahun:</strong> <span>22 Juni 2003</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Nomor Telepon:</strong> <span>+628 13 6559 0601</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Kota:</strong> <span>Pekanbaru, Indonesia</span></li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Umur:</strong> <span>19</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Jenjang Pendidikan:</strong> <span>Sarjana S1</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>rehannugraha64@gmail.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Bersedia Bekerja Sebagai:</strong> <span> Pekerja Lepas</span></li>
-                </ul>
-              </div>
-            </div>
-            <p>
-              Informasi Pribadi saya telah dibuat sebenarnya, saya menerima email permintaan bergabung ke perusahaan. Dengan penuh semangat akan segera dibalas dan saya berharap dapat posisi yang di inginkan.
-            </p>
-          </div>
-        </div>
+                <div class="col-lg-4 bg-dark text-white text-center py-4">
+                        <div class="header-left">
+                            <img src="src/img/img-1.jpg" alt="" class="img-thumbmail rounded-circle mb-2">
+                            <h1 class="display-5">Rehan Nugraha Tanjung</h1>
+                            <h4 class="lead text-uppercase text-white-50 mb-4">Mahasiswa</h4>
+                        </div>
+                        <div>
+                            <h5 class="text-uppercase bg-white text-dark py-2 rounded-pill">Contact</h5>
+                            <ul class="list-unstyled text-white-50 ml-5 py-2 text-left">
+                                <li class="list-item">
+                                    <i class="fas fa-mobile-alt mx-4">
+                                        +62 813 6559 0601
+                                    </i>
+                                </li>
+                                <li class="list-item">
+                                    <i class="fas fa-envelope-open-text mx-4">
+                                        rehannnugraha64@gmail.com
+                                    </i>
+                                </li>
+                                <li class="list-item">
+                                    <i class="fas fa-blog mx-4">
+                                        www.github.com/rehan12c
+                                    </i>
+                                </li>
+                                <li class="list-item">
+                                    <i class="fas fa-map-marker-alt mx-4">
+                                        Jalan Tunas Mulia Nomor 30, Dumai
+                                    </i>
+                                </li>
+                            </ul>
+                        </div>
 
-      </div>
-    </section><!-- End About Section -->
-</main>
+                        <div>
+                            <h5 class="text-uppercase bg-white text-dark py-2 rounded-pill">Skils</h5>
+                            <ul class="list-unstyled text-white-50 ml-5 py-2 text-left text-capitalize">
+                                <li class="list-item">problems solving skils</li>
+                                <li class="list-item">verbal communication</li>
+                                <li class="list-item">costumer service</li>
+                            </ul>
+                        </div>
+
+                        <div>
+                            <h5 class="text-uppercase bg-white text-dark py-2 rounded-pill">Education</h5>
+                            <ul class="list-unstyled text-white-50 ml-5 py-2 text-left text-uppercase">
+                                <li class="list-item">public senior high school, dumai</li>
+                                <li class="list-item">informatics engineering, university</li>                                
+                            </ul>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-8 bg-light text-dark py-5 px-5">
+                        <div class="header-right">
+                            <h4 class="text-uppercase">profil</h4>
+                            <hr>
+                            <p> Nama saya <i>Rehan Nugraha Tanjung</i> panggilan <i>Rehan</i>. Saya anak ke-3 dari 3 bersaudara. Sekarang sedang menempuh jenjang pendidikan di Universitas Islam Negri Sulatan Syarif Khasim, jurusan <i>Teknik Informatika</i> dengan NIM 12150113827. CV ini dibuat untuk memenuhi tugas matakuliah <i>Pemrograman Web</i>. Semoga Nilai Yang Terbaik</p>
+                        </div>
+
+                        <div>
+                            <h4 class="text-uppercase">Pengalaman Orgnanisasi</h4>
+                            <hr>
+                            <ul class="list">
+                                <li class="list-item">
+                                    <h5 class="display-6 text-uppercase">divisi komsumsi</h5>
+                                    <h6 class="text-uppercase text-black-50">panitia kongres teknik informatika / 2023 present </h6>
+                                    <p>Pengalaman saya di divisi konsumsi, Kongres pemilihan Ketua Himpunan Teknik Informatika acara berjalan selama 3 hari 2 malam bekerja sebagai anggota mengatur divisi dan meyediakan jasa yang terbaik.  </p>
+                                </li>
+                                <li class="list-item">
+                                    <h5 class="display-6 text-uppercase">divisi konsumsi</h5>
+                                    <h6 class="text-uppercase text-black-50">panitia himatif cup / 2023 present </h6>
+                                    <p>Pengalaman saya di divisi konsumsi Himatif Cup perlombaan futsal sejurusan TIF, disini sebagai anggota konsumsi membuat acara berjalan lancar dan meyediakan jasa yang terbaik.</p>
+                                </li>
+                                <li class="list-item">
+                                    <h5 class="display-6 text-uppercase">Lab Squad Front End</h5>
+                                    <h6 class="text-uppercase text-black-50">Divisi Community / 2023 present </h6>
+                                    <p>Pengalaman saya di divisi community Lab Squad Front End disini sebagai anggota bertugas sebagai admin yang mengatur sosial media lab squad </p>
+                                </li>                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 </template>
 <script scoped>
 

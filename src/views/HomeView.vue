@@ -45,7 +45,7 @@
     <!-- colum awal-->
   <div class="row align-items-center mt-4">
     <div class="col-12">
-        <center><img src="https://i.pinimg.com/originals/10/ec/86/10ec8691f73b787677bd0bbeddbd22e0.jpg" alt="img" style="height: 150; width: 150;">
+        <center><img src="https://i.pinimg.com/originals/10/ec/86/10ec8691f73b787677bd0bbeddbd22e0.jpg" alt="img" style="height: 150px; width: 150px;">
         <h2 class="mt-2">Rehan Nugraha Tanjung</h2>
         <h2> NIM : 12150113827 </h2>
         <p>Selamat Datang Pada Halaman Utama</p>
